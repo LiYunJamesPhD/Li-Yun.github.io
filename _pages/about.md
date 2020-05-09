@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello
+Hello, my name is Li-Yun Wang.
