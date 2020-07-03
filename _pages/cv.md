@@ -18,10 +18,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019 - Winter 2020: Bixby Data Pipeline Engineer
+  * Samsung Research America
+  * Duties included:      
+  * Supervisor: Sridhar Kocharlakota
 
 * Fall 2015: Research Assistant
   * Github University
