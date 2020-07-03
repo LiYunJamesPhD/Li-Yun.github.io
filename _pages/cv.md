@@ -23,11 +23,11 @@ Work experience
   * Duties included:      
   * Supervisor: Sridhar Kocharlakota
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Fall 2017 - Winter 2018: Software Engineer
+  * Individual Contractor
+  * Duties included: 
+  * Supervisor: Frank Selker
+
 Skills
 ======
 * Skill 1
