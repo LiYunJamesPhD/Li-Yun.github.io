@@ -12,8 +12,9 @@ redirect_from:
 Education
 ======
 * B.S. Computer Science and Information Engineering, Fu Jen Catholic University, New Taipei, Taiwan, 2006 - 2010
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. Computer Science and Information Engineering, Fu Jen Catholic University, New Taipei, Taiwan, 2010 - 2012
+* M.S. Computer Science, Portland State University, Portland, Oregon, USA, 2015 - 2017
+* Ph.D Computer Science, Portland State University, Portland, Oregon, USA, 2016 - 2021 (expected)
 
 Work experience
 ======
