@@ -310,4 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: hacker   #jekyll-theme-hacker
+theme: jekyll-theme-cayman
