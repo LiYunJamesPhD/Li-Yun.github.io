@@ -2,12 +2,12 @@
 title: "Leveraging Image Processing Techniques to Thwart Adversarial Attacks in Image Classification"
 collection: publications
 permalink: /publication/2019-adv-paper
-excerpt: 'Yeganeh Jalalpour\*, **Li-Yun Wang\***, Ryan Feng, Wu-chi Feng   
-          \*: equal contribution'
+excerpt: 'Yeganeh Jalalpour\*, **Li-Yun Wang\***, Ryan Feng, Wu-chi Feng'
 date: 2019-12-9
 venue: '2019 IEEE International Symposium on Multimedia (ISM)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8959028'
 citation: ''
+\*: equal contribution
 ---
 
 Abstract:
