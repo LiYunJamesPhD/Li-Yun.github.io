@@ -2,9 +2,8 @@
 title: "Violence detection in movies"
 collection: publications
 <!-- permalink: /publication/2009-10-01-paper-title-number-1 -->
-excerpt: ''
+excerpt: 'Authors: Liang-Hua Chen, Hsi-Wen Hsu, Li-Yun Wang, and Chih-Wen Su'
 date: 2011-8-17
-author: 'Chen, Liang-Hua, Hsi-Wen Hsu, Li-Yun Wang, and Chih-Wen Su'
 venue: '2011 Eighth International Conference Computer Graphics, Imaging and Visualization'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/6054099'
 citation: 'Chen, Liang-Hua, Hsi-Wen Hsu, Li-Yun Wang, and Chih-Wen Su. "Violence detection in movies." In 2011 Eighth International Conference Computer Graphics, Imaging and Visualization, pp. 119-124. IEEE, 2011.'
