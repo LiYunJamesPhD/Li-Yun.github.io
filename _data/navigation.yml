@@ -6,8 +6,8 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching/Graduate Teaching Assistant"
-    url: /teaching/    
+  #- title: "Teaching/Graduate Teaching Assistant"
+  #  url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
@@ -15,7 +15,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /cv/
     
   #- title: "Guide"
