@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "An Integrated Approach to Image Retrieval"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2012-7-3-An-Integrated-Approach-to-Image-Retrieval
+excerpt: 'Liang-Hua Chen, Yao-Ling Hung, **Li-Yun Wang**'
+date: 2012-7-3
+venue: '2012 35th International Conference on Telecommunications and Signal Processing'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/6256386'
+citation: ''
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Abstract:
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+The usefulness of an image database depends on whether the image of interest can be easily located. Feature extraction is a crucial step of image retrieval. The well known SIFT descriptor is a keypoint based image feature. It can be used to robustly find the same objects in different images, i.e., achieve the object recognition task. However, it is not effective on the image retrieval task, i.e., finding images with similar content. To improve the SIFT algorithm, we propose a robust image retrieval algorithm based on the integration of keypoints and edges information. Our approach is robust to translation, rotation and partial occlusion of the object. Experimental results indicate that the proposed algorithm is effective and outperforms the SIFT algorithm.
