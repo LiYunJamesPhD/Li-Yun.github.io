@@ -2,7 +2,7 @@
 title: "Integration of Multiple Shape Features for Human Detection in Videos"
 collection: publications
 permalink: /publication/2014-8-27-Integration-of-Multiple-Shape-Features-for-Human-Detection-in-Videos
-excerpt: 'Liang-Hua Chen, Pei-Chieh Lee,, **Li-Yun Wang**, and Hong-Yuan Liao'
+excerpt: 'Liang-Hua Chen, Pei-Chieh Lee, **Li-Yun Wang**, and Hong-Yuan Liao'
 date: 2014-8-27
 venue: '2014 Tenth International Conference on Intelligent Information Hiding and Multimedia Signal Processing'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/6998358'
