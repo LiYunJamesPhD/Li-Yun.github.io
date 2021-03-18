@@ -37,12 +37,16 @@ Publications
 
 Skills
 ======
-* Programming Language: C/C++, Java, Python, Matlab, Scala, Lua
-* Libraries/Tools:
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Language:** C/C++, Java, Python, Matlab, SQL, Shell, Scala, Lua
+* **Libraries/Tools:**
+  * **Image Processing and Computer vision:** OpenCV (C++ and Python), Matlab, and Pytorch
+  * **Machine Learning and Deep Learning:** NumPy, Pytorch, Scikit-learn, Tensorflow, and Torch
+  * **Big Data and Data Engineering:** PySpark, MongoDB (PyMongo), Multiprocessing (Python), Boto3, Matplotlib, Apache Kafka,
+                                       Kibana, and Kubernetes
+  * **Video Processing:** OpenCV, Matlab, and FFmpeg
+  * **Documentation and Version Control:** Git and Latex
+* **Perfessonal Knowledge:** Computer Vision, Machine Learning, Deep Learning, and Image Processing
+
 
 
 
