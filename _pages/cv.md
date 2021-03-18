@@ -19,9 +19,9 @@ Education
 Work experience
 ======
 * Fall 2019 - Winter 2020: Bixby Data Pipeline Engineer
-  * Samsung Research America
-  * Duties included:      
+  * [Samsung Research America](https://www.sra.samsung.com/)
   * Supervisor: Sridhar Kocharlakota
+  * mention duties.....
 
 * Fall 2017 - Winter 2018: Software Engineer
   * Individual Contractor
