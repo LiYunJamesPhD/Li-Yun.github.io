@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Fall 2016 - Present: Graduate Student Researcher
+* **Graduate Student Researcher (Fall 2016 - Present)**
   * Portland State University
   * Advisor: Wu-chi Feng
   * mention different projects........
@@ -29,10 +29,33 @@ Work experience
   * 
   * 
 
-* Fall 2017 - Winter 2018: Software Engineer Intern
+* **Software Engineering Intern (Fall 2017 - Winter 2018)**
   * Individual Contractor
   * Supervisor: Frank Selker
   * mention what I have doen in this work....
+
+
+Helped a data pipeline and automation team at Samsung Research America (SRA) design and develop an end-to-end automatic data pipeline
+framework having an audio data collection, a keyword chunking, and a data storage stage for generating negative hard training examples and
+benefiting the machine learning team at SRA.
+
+Helped the data pipeline and automation team (1) investigate the bottlenecks of the existing data pipeline framework and summarize all the
+problems in the pipeline framework and (2) maintain and manage a UI labeling audio data examples for domain experts at SRA.
+
+
+Contributed a program to download audio data from Youtube Channels using the Boto3 Python API and parallel processing APIs in Python and
+chunk the downloaded audio files to small pieces of clips with particular audio features that are similar to target audio features by integrating
+a machine-learning-based keyword detection module and AWS CLI.
+
+Contributed a program to upload the chunked audio files and the associated metadata such as video titles, video categories, and etc. to non-
+SQL databases using Pymongo and parallel processing APIs in Python
+
+
+3 pieces in Samsung intern......
+1. audo pipeline. (youtube audio and devices ==> key works....)
+2. kafka (experiments)
+3. maintain websies
+
 
 Publications
 ======
