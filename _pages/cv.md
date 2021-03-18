@@ -27,29 +27,15 @@ Work experience
   * [Samsung Research America](https://www.sra.samsung.com/)
   * Supervisor: Sridhar Kocharlakota
   * Designed and implemented an end-to-end automatic audio data pipeline that comprises data collection, keyword chunking, and data storage for generating negative hard training examples to benefit the Automatic Speech Recongition (ASR) team using the Boto3 Python package, parallel processing Python APIs, and a learning-based keyword detection program. The chunked audio data are then uploaed to MongoDB using AWS CLI and Boto3. The implemented pipeline can collect the negative hard exmpales from thousands youtube channels in 3 to 4 days.
-  * Designed and implemented an end-to-end generic keyword extraction pipeline with a generic keyword extraction algorithm using PyMongo and PySpark. The pipeline can parse millions of audio data nad complete the task in one day.
-  * 
-
-
+  * Designed and implemented an end-to-end generic keyword extraction pipeline with a generic keyword extraction algorithm using PyMongo and PySpark. The pipeline can parse millions of audio data and complete the task in one day.
+  * Investiaged the bottlenecks of the existing data pipeline framework that comprises the Kafka package and summarized the issues of Kafka in the existing pipeline.
+  * Maintained and managed a data ladeling system that is implemented in React and Node.js for domain experts.
 
 * **Software Engineering Intern (Fall 2017 - Winter 2018)**
   * Individual Contractor
   * Supervisor: Frank Selker
-  * mention what I have doen in this work....
+  * mention what I have doen in this work......
 
-
-
-Helped the data pipeline and automation team (1) investigate the bottlenecks of the existing data pipeline framework and summarize all the
-problems in the pipeline framework and (2) maintain and manage a UI labeling audio data examples for domain experts at SRA.
-
-
-
-
-
-
-3 pieces in Samsung intern.......
-2. kafka (experiments)
-3. maintain websies
 
 
 Publications
