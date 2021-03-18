@@ -23,7 +23,7 @@ Work experience
   * Advisor: Wu-chi Feng
   * mention different projects........
 
-* Fall 2019 - Winter 2020: Bixby Data Pipeline Engineer Intern
+* **Bixby Data Pipeline Engineer Intern (Fall 2019 - Winter 2020)**
   * [Samsung Research America](https://www.sra.samsung.com/)
   * Supervisor: Sridhar Kocharlakota
   * 
