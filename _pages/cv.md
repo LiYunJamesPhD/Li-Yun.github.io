@@ -27,8 +27,8 @@ Work experience
   * [Samsung Research America](https://www.sra.samsung.com/)
   * Supervisor: Sridhar Kocharlakota
   * Designed and implemented an end-to-end automatic audio data pipeline that comprises data collection, keyword chunking, and data storage for generating negative hard training examples to benefit the Automatic Speech Recongition (ASR) team using the Boto3 Python package, parallel processing Python APIs, and a learning-based keyword detection program. The chunked audio data are then uploaed to MongoDB using AWS CLI and Boto3. The implemented pipeline can collect the negative hard exmpales from thousands youtube channels in 3 to 4 days.
-  * Extended the desinged pipeline to 
-
+  * Designed and implemented an end-to-end generic keyword extraction pipeline with a generic keyword extraction algorithm using PyMongo and PySpark. The pipeline can parse millions of audio data nad complete the task in one day.
+  * 
 
 
 
@@ -36,11 +36,6 @@ Work experience
   * Individual Contractor
   * Supervisor: Frank Selker
   * mention what I have doen in this work....
-
-
-Helped a data pipeline and automation team at Samsung Research America (SRA) design and develop an end-to-end automatic data pipeline
-framework having an audio data collection, a keyword chunking, and a data storage stage for generating negative hard training examples and
-benefiting the machine learning team at SRA.
 
 
 
@@ -52,16 +47,7 @@ problems in the pipeline framework and (2) maintain and manage a UI labeling aud
 
 
 
-to download audio data from Youtube Channels using the Boto3 Python API and parallel processing APIs in Python and
-chunk the downloaded audio files to small pieces of clips with particular audio features that are similar to target audio features by integrating
-a machine-learning-based keyword detection module and AWS CLI.
-
-Contributed a program to upload the chunked audio files and the associated metadata such as video titles, video categories, and etc. to non-
-SQL databases using Pymongo and parallel processing APIs in Python
-
-
-3 pieces in Samsung intern......
-1. audo pipeline. (youtube audio and devices ==> key works....)
+3 pieces in Samsung intern.......
 2. kafka (experiments)
 3. maintain websies
 
