@@ -26,7 +26,9 @@ Work experience
 * **Bixby Data Pipeline Engineer Intern (Fall 2019 - Winter 2020)**
   * [Samsung Research America](https://www.sra.samsung.com/)
   * Supervisor: Sridhar Kocharlakota
-  * 
+  * Designed and implemented an end-to-end automatic audio data pipeline that comprises data collection, keyword chunking, and data storage generating negative   
+    hard training examples and benefiting the Automatic Speech Recongition (ASR) team using the Boto3 Python package, parallel processing Python APIs, and a  
+    learning-based keyword detection program. The chunked audio data are then uploaed to MongoDB using AWS CLI and Boto3.
   * 
 
 * **Software Engineering Intern (Fall 2017 - Winter 2018)**
@@ -43,7 +45,11 @@ Helped the data pipeline and automation team (1) investigate the bottlenecks of 
 problems in the pipeline framework and (2) maintain and manage a UI labeling audio data examples for domain experts at SRA.
 
 
-Contributed a program to download audio data from Youtube Channels using the Boto3 Python API and parallel processing APIs in Python and
+
+
+
+
+to download audio data from Youtube Channels using the Boto3 Python API and parallel processing APIs in Python and
 chunk the downloaded audio files to small pieces of clips with particular audio features that are similar to target audio features by integrating
 a machine-learning-based keyword detection module and AWS CLI.
 
