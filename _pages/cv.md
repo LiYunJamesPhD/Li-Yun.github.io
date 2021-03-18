@@ -18,16 +18,21 @@ Education
 
 Work experience
 ======
-* Fall 2019 - Winter 2020: Bixby Data Pipeline Engineer
+* Fall 2016 - Present: Graduate Student Researcher
+  * Portland State University
+  * Advisor: Wu-chi Feng
+  * mention different projects........
+
+* Fall 2019 - Winter 2020: Bixby Data Pipeline Engineer Intern
   * [Samsung Research America](https://www.sra.samsung.com/)
   * Supervisor: Sridhar Kocharlakota
-  * mention duties.....
+  * 
+  * 
 
-* Fall 2017 - Winter 2018: Software Engineer
+* Fall 2017 - Winter 2018: Software Engineer Intern
   * Individual Contractor
-  * Duties included: 
   * Supervisor: Frank Selker
-
+  * mention what I have doen in this work....
 
 Publications
 ======
