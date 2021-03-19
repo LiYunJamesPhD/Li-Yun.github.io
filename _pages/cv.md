@@ -22,7 +22,15 @@ Work experience
 * **Graduate Student Researcher (Sep. 2016 - Present)**
   * Portland State University
   * Advisor: Wu-chi Feng
-  * mention different projects........
+  * **Video as Text: A New Paradigm for Video Processing:**
+    (1) test
+    (2) test
+  * **Adversarial Deep Learning:**
+    (1) test
+    (2) test
+  * **Frame Interpolation Video Compression:**
+    (1) test
+    (2) test
 
 * **Bixby Data Pipeline Engineer Intern (Oct. 2019 - Apr. 2020)**
   * [Samsung Research America](https://www.sra.samsung.com/)
