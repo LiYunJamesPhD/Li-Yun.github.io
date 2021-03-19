@@ -26,8 +26,11 @@ Work experience
     (1) test
     (2) test
   * **Adversarial Deep Learning:**
-    (1) test
-    (2) test
+    (1) The project aims to study what an adversarial example and adversarial perturbation is and how we can alleviate perturbation deterioration to the images.
+    (2) We understood the perturbation noise is high frequency information by trying to maximize a loss between an input image and a deep
+learning model. According to this observation, our hypothesis is that perturbed images contain more numbers of colors compared to unperturbed images.
+    (3) We proposed three color-reduction approaches (e.g., GPCR, GK-means, and Fast GK-means) to reduce the number of image colors containing the perburation in the image. Compared to other image processing approaches, the proposed approaches achieve over 85% top-1 classfiication accuracy on a customized Imagenet dataset.
+    (4) We extended the proposed approaches by replacing 
   * **Frame Interpolation Video Compression:**
     (1) test
     (2) test
