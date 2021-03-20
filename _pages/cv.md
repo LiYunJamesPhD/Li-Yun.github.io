@@ -31,6 +31,12 @@ Work experience
 learning model. According to this observation, our hypothesis is that perturbed images contain more numbers of colors compared to unperturbed images.
     (3) We proposed three color-reduction approaches (e.g., GPCR, GK-means, and Fast GK-means) to reduce the number of image colors containing the perburation in the image. Compared to other image processing approaches, the proposed approaches achieve over 85% top-1 classfiication accuracy on a customized Imagenet dataset with 1000 images.
     (4) We extended the proposed approaches by replacing a standard Gaussian filter with an adaptive Gaussian algorithm. The new color-reduction approaches achive over 78% and 90% top-1 classification accuracy on a customized Imagenet dataset with 2000 images underlying different network architectures and adversarial attacks.
+  * **Image Deblurring: (Collaboration Project)**
+    (1) It is an in-progress project, and the aim of this project is researching and developing new image deblurring techniques by Generative Adversarial Networks (GANs).
+    (2) My contribution comprises (a) studying relevant GAN-based techniuqes and discussing the papers with the other researcher, (b) providing a new idea and implementing the idea in Pytorch, and (c) Evaluating the new idea and discussing expeirments with the other researcher.
+  * **Cross Domain Model Compression: (In Progress)**
+    (1) test
+    (2) test
   * **Frame Interpolation Video Compression:**
     (1) test
     (2) test
