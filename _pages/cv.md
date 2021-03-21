@@ -37,8 +37,8 @@ learning model. According to this observation, our hypothesis is that perturbed 
     (1) It is an on-going project. It aims to research and develop novel neural-network compression techniques for crafting domain-specific neural networks with few FLOPs (Number of float-pointing operations) and the number of model's parameters.
     (2) Studying relevant research papers and conceptualize research problems. I also narrow the research problems to possible research topics and start working on a new solution in Pytorch.
   * **Frame Interpolation Video Compression:**
-    (1) test
-    (2) test
+    (1) This project aims to research and develop new video compression frameworks that have high compression quality but low bitrates.
+    (2) My contribution in this project was helping debug the code and check expeirmental results. I also helped out writing a research paper. The proposed framework with threshold 36 achieves 44dB PSNR and only encodes 21% macro blocks for anchor-frame distance 4.
 
 * **Bixby Data Pipeline Engineer Intern (Oct. 2019 - Apr. 2020)**
   * [Samsung Research America](https://www.sra.samsung.com/)
