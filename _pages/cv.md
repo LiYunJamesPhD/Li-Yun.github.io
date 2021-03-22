@@ -22,8 +22,10 @@ Work experience
 * **Graduate Student Researcher (Sep. 2016 - Present)**
   * Portland State University
   * **Video as Text: A New Paradigm for Video Processing:**
-    (1) test
-    (2) test
+    (1) The project aims to research and develop a novel content-based video processing with popular image processing and computer vision functionalities for people who do not have prior programming knowledge.
+    (2) Took the advantages of traditional content-based video processing frameworks and multimedia middleware frameworks to design and implement a hybrid content-based video processing tool with multiple tailored modules for different purposes.
+    (3) Designed and implemented all the modules in the way of leveraging the middleware concepts to perform different functionalities in different modules but have generic inputs and outputs for passing intermiedate results in between the modules.
+    (4) Designed and implemented an adaptive naming mechanism that can dynamically store intermediate results and reuse it. The propsoed framework was tested on two popular computer vision applications: facial and object detection. The proposed framework can conduct the object detection task in 57.14 ms for a given video wtih frame resolution 640x480 and 8900 video frames.
   * **Adversarial Deep Learning:**
     (1) The project aims to study what an adversarial example and adversarial perturbation is and how we can alleviate perturbation deterioration to the images.
     (2) We understood the perturbation noise is high frequency information by trying to maximize a loss between an input image and a deep
