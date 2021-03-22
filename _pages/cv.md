@@ -51,8 +51,11 @@ learning model. According to this observation, our hypothesis is that perturbed 
 * **Software Engineering Intern (Sep. 2017 - Mar. 2018)**
   * Individual Contractor
   * Supervisor: Frank Selker
-  * mention what I have doen in this work.......
-
+  * mention what I have doen in this work...........
+* **Graduate Research Assistant (Sep. 2010 - June 2012)**
+  * [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
+  * Supervisor: Liang-Hua Chen (Computer Vision Lab)
+  * Mention what I did.......
 * **Graduate Student Researcher (Sep. 2010 - June 2012)**
   * [Academia Sinica, Taiwan](https://www.sinica.edu.tw/en)
   * Laboratory Director: Mark Liao
