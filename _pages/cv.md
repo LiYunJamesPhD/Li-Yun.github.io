@@ -57,10 +57,14 @@ learning model. According to this observation, our hypothesis is that perturbed 
   * Modified the existing input video parser to enhance the parser's scalability that can process distinct video segments.
   * Modified the exisiting preference functioanlity to craft precise hightligh video segments for users using a logarithmic function.
   * Deployed the entire application (e.g., programs) to Amazon Web Services (AWS).
+
 * **Graduate Research Assistant (Sep. 2010 - June 2012)**
   * [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
   * Supervisor: Liang-Hua Chen (Computer Vision Lab)
-  * Mention what I did.......
+  * Helped Principle Inverstigator (PI) survey relevent research papers for different research projects.
+  * Helped PI and other lab's students implement pieces of code and evaluate the performance of the proposed approaches.
+  * Conducted a pedestrian detection project and proposed an integrated approach that comprises histogram of oriented gradient features nd Fourier descriptor features to extract two types of features and trained two SVM detectors for two different features to detect pedestrian in video. The proposed approach achived over 80% F-1 score in the CAVIAR and PETS2000 dataset.
+
 * **Graduate Student Researcher (Sep. 2010 - June 2012)**
   * [Academia Sinica, Taiwan](https://www.sinica.edu.tw/en)
   * Laboratory Director: Mark Liao
@@ -89,10 +93,11 @@ Skills
 * **Perfessonal Knowledge:** Computer Vision, Machine Learning, Deep Learning, and Image Processing
 
 
+<!--
 Service and leadership
 ======
 * Google DSC, and Critigen project......
-
+-->
 
 
 
