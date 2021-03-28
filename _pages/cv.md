@@ -82,7 +82,7 @@ Publications
 
 Skills
 ======
-* **Programming Language:** C/C++, Java, Python, Matlab, SQL, Shell, Scala, Lua
+* **Programming Language:** C/C++, Java, Python, Matlab, SQL, Shell, Scala, Lua, and Julia
 * **Libraries/Tools:**
   * **Image Processing and Computer vision:** OpenCV (C++ and Python), Matlab, and Pytorch
   * **Machine Learning and Deep Learning:** NumPy, Pytorch, Scikit-learn, Tensorflow, and Torch
