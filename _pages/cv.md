@@ -92,13 +92,15 @@ Skills
   * **Documentation and Version Control:** Git and Latex
 * **Perfessonal Knowledge:** Computer Vision, Machine Learning, Deep Learning, and Image Processing
 
-
-<!--
 Service and leadership
 ======
-* Google DSC, and Critigen project......
--->
-
+* **Open Source Developer (Jun. 2018 - Dec. 2018)**
+  * Critigen
+  * This project aims to visualize map coming from OpenStreeMap (OSM) data quality by summarizing map error indicators within relevant grids. By doing this, it is easy for map analysts to focus on the grids with high error numbers.
+  * Designed and implemented a Map Quality Measure (MQM) tool that represents the map quality for a given geographic unit (an OSM data input) by a heat map style representation in python.
+  * Designed and implemented an automated process to find the optimal heat map grid size and display the quality in the heat representations by leveraging a K-D tree-like structure to virtually partition the coordinates of the map input into multiple grids and represent a range of the coordinates as a node. To reduce error counts the tool applies another tree to refine the grid size for some specific grids.
+  * Designed and implemented an OSM preprocessing wrapper to acquire the OSM data, extract coordinates and feature flags, and pass all of them to the map analysis and visualization.
+  * Designed and implmented a cascade K-D tree-like structure framework to be able to perform error correction tasks. The MQM tool can process over 750GM OSM data without having errors.
 
 
 <!--
