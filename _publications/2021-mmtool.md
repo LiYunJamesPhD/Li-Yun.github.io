@@ -5,6 +5,6 @@ permalink: /publication/2021-mmtool
 excerpt: '**Li-Yun Wang** and Wu-chi Feng'
 date: ''
 venue: 'International Journal of Multimedia Tools and Applications (Submitted)
-paperurl: ''
+paperurl: 'Coming Soon'
 citation: ''
 ---
