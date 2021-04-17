@@ -12,6 +12,6 @@ Hello, my name is Li-Yun Wang (王棣雲) or James Wang. I am a Ph.D. student in
 
 (1) **Adversarial Machine Learning**: Especially for removing adversarial perturbation and enhancing the robustness of the deep convolutional neural network by leveraging image processing techniques. In the future, I am happy to adopt machine learning or deep learning to resolve research problems in adversarial machine learning, <br/>
 (2) **Traditional Computer Vision Problems**: these problems can be object recognization and detection, etc, <br/>
-(3) **Neural Netwrok Model Compression and Optimiazation**, <br/>
+(3) **Neural Netwrok Model Compression and Optimiazation**: research and develop new model compression techniques for cross domain applications (in progress), <br/>
 (4) **Applications of Generative Adversarial Networks (GANs) in Computer vision**: Currently, I am working an image deblurring prooject with a research, and <br/>
 (5) **Design User-Friendly Multimedia Tools for Computer Vision Applications (e.g., Object Detection and Recognization)** <br/>
