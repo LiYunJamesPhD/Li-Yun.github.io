@@ -101,6 +101,14 @@ Service and leadership
   * Designed and implemented an automated process to find the optimal heat map grid size and display the quality in the heat representations by leveraging a K-D tree-like structure to virtually partition the coordinates of the map input into multiple grids and represent a range of the coordinates as a node. To reduce error counts the tool applies another tree to refine the grid size for some specific grids.
   * Designed and implemented an OSM preprocessing wrapper to acquire the OSM data, extract coordinates and feature flags, and pass all of them to the map analysis and visualization.
   * Designed and implmented a cascade K-D tree-like structure framework to be able to perform error correction tasks. The MQM tool can process over 750GM OSM data without having errors.
+* **Google Developer Student Club Lead (Aug. 2020 - Present)
+  * Google Developer Student Club Community
+  * [PDX's DSC Chapter](https://dsc.community.dev/portland-state-university/)
+  * Set up and manage a core team at the DSC.
+  * Hold events and workshops or collaborate DSC leads at different universities/colleges to establish events.
+  * Search real-world projects and provide them to PDX's students.
+
+
 
 
 <!--
