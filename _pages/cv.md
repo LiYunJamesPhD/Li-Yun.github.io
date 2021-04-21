@@ -92,7 +92,7 @@ Skills
   * **Documentation and Version Control:** Git and Latex
 * **Perfessonal Knowledge:** Computer Vision, Machine Learning, Deep Learning, and Image Processing
 
-Service and leadership
+Service and Leadership
 ======
 * **Open Source Developer (Jun. 2018 - Dec. 2018)**
   * Critigen
