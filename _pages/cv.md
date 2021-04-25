@@ -19,6 +19,10 @@ Education
 
 Work experience
 ======
+* **Machine Learning Intern (May 2021 - Present)**
+  * [HP](https://www.linkedin.com/company/hp/)
+  * Coming Soon
+
 * **Graduate Student Researcher (Sep. 2016 - Present)**
   * Portland State University
   * **Video as Text: A New Paradigm for Video Processing:**
