@@ -19,9 +19,12 @@ Education
 
 Work experience
 ======
-* **Machine Learning Intern (May 2021 - Present)**
+* **Machine Learning Intern (May 2021 - August 2021)**
   * [HP](https://www.linkedin.com/company/hp/)
-  * Coming Soon
+  * Supervisor: Sara Eshaghi
+  * Research and develop a heart rate monitoring system with my colleague Evan Yu.
+  * Leverage Deep Learning techniques to extract essential pixels from input images for heart rate monitoring.
+  * Optimize the neural network model to make fast and light network models by channel pruning and binarization.
 
 * **Graduate Student Researcher (Sep. 2016 - Present)**
   * Portland State University
