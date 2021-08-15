@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * **Machine Learning Intern (May 2021 - August 2021)**
-  * [HP](https://www.linkedin.com/company/hp/)
+  * [HP Inc.](https://www.linkedin.com/company/hp/)
   * Supervisor: Sara Eshaghi
   * Research and develop a heart rate monitoring system with my colleague Evan Yu.
   * Leverage Deep Learning techniques to extract essential pixels from input images for heart rate monitoring.
