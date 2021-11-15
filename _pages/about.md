@@ -23,10 +23,10 @@ In-Progress Projects: <br/>
 (3) **Open-world Lifelong Learning**:
 - Research and develop new constraints or losses for lifelong learning. (In progress)
 
-
 Completed Projects: <br/>
 (1) **Adversarial Deep Learning**:
 - Research and develop new adversarial defense approaches to increase the robustness of Deep Convolutional Neural Networks.
+
 (2) **Video as Text: A New Paradigm for Video Processing**:
 - Research and develop a novel content-based video processing software tool.
 
