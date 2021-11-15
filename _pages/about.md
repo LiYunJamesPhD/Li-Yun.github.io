@@ -12,15 +12,15 @@ Hello, my name is Li-Yun (James) Wang. I am a Ph.D. candidate in Computer Scienc
 
 **Research Projects**: <br/>
 In-Progress Projects: <br/>
-(1) **Deep Neural Network Model Compression/Optimization**: (with [Dr. Zahid Akhtar](https://sites.google.com/site/zahidakhtarhome/home))
+(1) **Deep Neural Network Model Compression/Optimization**:
 - Research and develop neural network compression techniques for domain adaptation applications. (Done)
 - Research and develop to make compact models for certain classification tasks. (In progress)
 
-(2) **Applications of Generative Adversarial Networks (GANs)**: (with Ph.D. Candidate [Felix Nez](https://www.linkedin.com/in/felix-nez-451b801a2/))
+(2) **Applications of Generative Adversarial Networks (GANs)**:
 - Research and develop new image deblurring approaches by GAN-based techniques. (Done)
 - Research and develop new 3D facial image synthesis. (In progress)
 
-(3) **Open-world Lifelong Learning** (with [Dr. John Lipor](http://web.cecs.pdx.edu/~lipor/))
+(3) **Open-world Lifelong Learning**:
 - Research and develop new constraints or losses for lifelong learning. (In progress)
 
 
