@@ -24,5 +24,5 @@ Hello, my name is Li-Yun (James) Wang. I am a Ph.D. candidate in Computer Scienc
 **(2) Video as Text: A New Paradigm for Video Processing:**
 - Research and develop a novel content-based video processing software tool.
 
-**(3) Image Deblurring via Generative Adversarial Networks:
+**(3) Image Deblurring via Generative Adversarial Networks:**
 - Research and develop new image deblurring approaches by GAN-based techniques.
